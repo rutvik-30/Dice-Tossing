@@ -1,0 +1,48 @@
+
+
+
+*{
+    margin:0;
+    padding:0;
+}
+body {
+    background-image: url('ludo.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.main{
+    width:70%;
+    margin:auto;
+    text-align:center;
+
+}
+.dice{
+    text-align:center;
+    display:inline-block;
+    padding:20px;
+}
+
+h1{
+    color:cornflowerblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow:5px 0 white ;
+    font-size:6rem;
+    margin:30px;
+}
+img{
+    width:100%;
+    border-radius: 10px;
+}
+p{
+    color:darkred;
+    font-size:40px;
+}
+button{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding:10px;
+    background-color:cadetblue;
+    color:white;
+    border-radius: 2px;
+}
